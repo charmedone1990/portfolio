@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Tahoma, Geneva, sans-serif;
+    background: #B0C4DE;
+}
+h1 	{
+    background-color: #00CCCC;
+    color: Black;
+    font-family: "Arial";
+    padding: 5px;
+    text-align: left;	
+}
+
+div.container 
+{
+    width: 800px;
+    overflow: hidden;
+    margin: 10px auto;
+    background: #FFF;
+    padding: 5px;
+    height:auto;
+}
+
+div.updates 
+{
+    float: right;
+    width: 250px;
+    height: auto;
+    margin: 10px auto;
+    background-color:#99F;
+    padding: 5px;
+}
+
+div.newbanners 
+{
+    float: left;
+    width: 100%;
+    height: auto;
+    margin: 10px auto;
+    border:#000;
+    padding: 10px;
+}
+
+div.text 
+{
+    float:left;
+    width: 530px;
+    height: auto;
+    border:#000;
+    padding:2px;
+}
+
+div.banner 	
+{
+    width: 900;
+    overflow: hidden;
+    margin: 0px;
+    border:#000;	
+}
+
+ul
+{
+    list-style-type:none;
+    margin:0;	
+    padding-left:0;
+    overflow:auto;
+    width:100%;
+}
+
+li
+{
+    float:left;
+    font-size:18px;
+    font-family:Arial ;
+}
+
+div.mainnavigation
+{
+    background-color:#99F;
+    margin:auto;
+    width:100%;
+}
+
+div.mainnavigation2
+{
+    background-color: grey;
+    margin:auto;
+    width:100%;
+}
+
+div.footer 
+{
+    background-color:#99F;
+    width: 800px;
+    overflow: hidden;
+    margin: px auto;
+    padding: 0px;
+}
+
+div.contactme
+{
+    background-color:#99F;
+    width:100%;
+}
+
+div.leavecomment
+{
+    background-color:#99E;
+    width:100%;
+}
+
+#gallerycontainer {
+    position:relative; 
+    width:770px; 
+    height:396px; 
+    margin:20px auto 0 auto; 
+    border:1px solid #aaa; 
+}
+#myGallery
+{
+    width: 800px !important;
+    height: 400px !important;
+} 
