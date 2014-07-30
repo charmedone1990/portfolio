@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>Jackie Prior</title>
+        <title>Jackie Sproule</title>
         <link rel="stylesheet" type="text/css" href="css/general.css"/>
     </head>
     <body>
         <div class="container">
             <? include 'menu.php' ?>
             <div class="banner">
-                <img src="images/mainbanner.jpg" height="225" TITLE="Main Logo" alt="Main Banner" />
+                <img src="images/newmainbanner.jpg" height="225" TITLE="Main Logo" alt="Main Banner" />
             </div>
             <div class="text">
                 <div class="centre">

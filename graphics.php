@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>Jackie Prior</title>
+        <title>Jackie Sproule</title>
         <link rel="stylesheet" type="text/css" href="css/general.css"/>
         <link rel="stylesheet" type="text/css" href="css/jquery.lightbox-0.5.css" media="screen" />
         <script type="text/javascript" src="js/jquery.js"></script>

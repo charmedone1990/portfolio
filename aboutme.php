@@ -10,25 +10,25 @@
         <div class="container">
             <? include 'menu.php' ?>
             <div class="banner">
-                <img src="images/mainbanner.jpg" title="Main Logo" alt="Main Banner" />
+                <img src="images/newmainbanner.jpg" title="Main Logo" alt="Main Banner" />
             </div>
             <div class="text">
                 <h1>About Me</h1>
-                <p>My Name is Jacqueline (Jackie) Prior, and I have been creating websites for about 4 years.</p> 
+                <p>My Name is Jacqueline (Jackie) Sproule, and I have been creating websites for about 4 years.</p> 
                 <!--<p>I stumbled across programming 8 years ago when I was editting my Neopets profile page. I was unaware that what i was actually doing was using HTML. It was not until I went to College that my love for creating websites properly started. One of our projects was to create a website using Microsoft Front Page (okay not proper programming software but I had to use it). My first website was about Charmed, it was great because it linked to Ebay sites for merchandise and it included a YouTube video from the programme and I even included the Charmed Family Tree that I created using Ms Paint (*cough* again not a very good graphics tool).</p>-->
                 <p>My first year at university I created a basic HTML page with my favorite topic at the time ... Duke of Edinburgh, this again had all the basic components such as a navigation bar, email, CSS, images and tables. In my second year at university I learnt to create PHP pages using a framework, in this case it was Zend, to see images of this site click here. It included Ajax, PHP and Javascript along with the basics that I had learnt the previous year.</p>
                 <p>I have completed a work placement using Coldfusion as my main programming language. As I had started the year off having never heard of this language let alone used it I have found it to be very fun and easy to follow, my only wish is that more jobs used ColdFusion. Whilst at this placement it is my job to help maintain and update the Staff Hub. In doing this I have created numerous slider graphics, banners for the Colleges website, a christmas e-card, the new Reprographic System and helped update/Create Social Network pages for the college via FaceBook. </p>
-                <p>I have now finished my degree with a FIRST and am currently looking for employment in the fields of Web Design and Graphic Design. 
+                <p>I have completed my BSc (Hons) Information Technology degree and recieve a FIRST with work placement. I am currently working as a IT Helpdesk Analyst and although working on the helpdesk allows me to persue my passion for helping people and learning new things, I still have a strong passion for all parts of Web & Graphic design.
                     <h2>My Skills</h2>
                     <p>I have a wide range of skills from programming languages such as HTML,
                         PHP and
                         ColdFusion to creative/editing languages such as CSS and Action Script 2. Amongst my favorite applications to use are
                         Adobe Products (Fireworks, Photoshop, Dreamweaver, Flash)
-                        and Microsoft Office products (Word, Excel, Access, Powerpoint, FrontPage, Publisher). I also know how to use
+                        and Microsoft Office products (Word, Excel, Access, Powerpoint, FrontPage, Publisher, Outlook). I also know how to use
                         SQL/Oracle and have experience with using both Windows and Ubuntu operating systems.
                     </p>
                     <h2>My Goals</h2>
-                    <p>In the future I hope to make myself known in the Web Design industry. I am a very creative person as shown by my banners and galleries, and I wish to use these skills to create attractive websites. I have not had any modules on graphic design but have been drawing since I was very young and have been using graphic design products such as MS Paint, Adobe Fireworks, Phototshop and Flash for a long time, if after finishing my degree I do not obtain a job in this profession due to lack of skills I am going to go on a course to learn the relevant skills to allow me to achieve my dream.</p>
+                    <p>In the future I hope to make myself known in the Web Design industry. I am a very creative person as shown by my banners and galleries, and I wish to use these skills to create attractive websites. I have not had any modules on graphic design but have been drawing since I was very young and have been using graphic design products such as MS Paint, Adobe Fireworks, Phototshop and Flash for a long time. As I have not obtained a job in this profession due to lack of experience, I continue to complete graphics on my blog and am open to building websites for users. In the near future I would like to go on a course to learn the relevant skills to allow me to achieve my dream.</p>
             </div>
             <? include 'footer.php' ?>
         </div>

@@ -5,5 +5,5 @@
     <a href="graphics.html">Graphics</a>
     <a href="references.html">References</a>
     <a href="contact.html">Contact</a>
-    <span class="right">Jackie Prior</span>
+    <span class="right">Jackie Sproule</span>
 </div>
