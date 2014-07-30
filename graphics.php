@@ -23,6 +23,7 @@
             <div class="text">
                 <h1>Graphics</h1>
                 <p><strong>To enlarge any of the graphics just click on the image</strong></p>
+                <p><a href ="http://jackie.britintel.co.uk/halesowen.html"><img src="images/more.jpg" height="182" width="241" title="Halesowen" /></a></p>
                 <div id="gallery">
                   <h2>Digital Images </h2>
                     <a href="images/artwork/family.jpg">
@@ -35,7 +36,6 @@
                         <img src="images/artwork/Pixar in Concert.jpg" height="182" width="241" TITLE="Art 1" />
                     </a>
                     
-                  <p><a href ="http://jackie.britintel.co.uk/halesowen.html"><img src="images/more.jpg" height="182" width="241" title="Halesowen" /></a></p>
                     <h2>Paintings</h2>
                     <a href="images/artwork/art1.jpg">
                         <img src="images/artwork/art1.jpg" height="182" width="241" TITLE="Art 1" />
