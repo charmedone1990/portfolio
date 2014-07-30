@@ -10,7 +10,7 @@
         <div class="container">
             <? include 'menu.php' ?>
             <div class="banner">
-                <img src="images/mainbanner.jpg" title="Main Logo" alt="Main Logo" />
+                <img src="images/newmainbanner.jpg" title="Main Logo" alt="Main Logo" />
             </div>
             <div class="text">
                 <h1>My Site</h1>
