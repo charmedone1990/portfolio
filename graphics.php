@@ -35,7 +35,7 @@
                         <img src="images/artwork/Pixar in Concert.jpg" height="182" width="241" TITLE="Art 1" />
                     </a>
                     
-                  <p><img src="images/more.jpg" height="182" width="241" TITLE="Art 1" /><a href="http://jackie.britintel.co.uk/halesowen.html"></a></p>
+                  <p><a href ="http://jackie.britintel.co.uk/halesowen.html"><img src="images/more.jpg" height="182" width="241" title="Halesowen" /></a></p>
                     <h2>Paintings</h2>
                     <a href="images/artwork/art1.jpg">
                         <img src="images/artwork/art1.jpg" height="182" width="241" TITLE="Art 1" />
